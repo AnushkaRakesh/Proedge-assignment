@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
   searchInput: {
     height: 40,
     borderWidth: 1,
-    borderColor: 'lightblack',
+    borderColor: 'black',
     borderRadius: 5,
     paddingHorizontal: 10,
     marginBottom: 10,
